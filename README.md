@@ -38,16 +38,19 @@
 
 ## 🌐 قنواتنا
 - 🌍 **Website:** [codejourney.example](https://codejourney.example)  
-- 📧 **Email:** info@codejourney.example  
-- 💼 **LinkedIn:** [linkedin.com/company/codejourney](https://linkedin.com/company/codejourney)  
-- 🐦 **Twitter/X:** [twitter.com/codejourney](https://twitter.com/codejourney)
+- 📧 **Email:** codejourney02@gmail.com  
+- 💼 **LinkedIn:** [https://www.linkedin.com/company/code-journey25/](https://linkedin.com/company/code-journey25/)  
+
 
 ---
 
 ## 🛡 حقوق الملكية الفكرية
 
-<img src="https://drive.google.com/file/d/1xvW3hrPyCJfm4RY7tMVLKxNY52MZoyVJ/view?usp=sharing" alt="حقوق الملكية" width="100"/>
-
+<img src="https://res.cloudinary.com/dpl0kiz1a/image/upload/v1760872563/1_gjjb2a.png" alt="حقوق الملكية" width="100"/>
+  
+- 💬 **واتساب** : [اضغط هنا](https://wa.me/201555303227)
+- 📩 **البريد الرسمي** : codejourney02@gmail.com  
+- 💼  [https://www.linkedin.com/company/code-journey25/](https://www.linkedin.com/company/code-journey25/)
 
 © 2025 Code Journey. جميع الحقوق محفوظة.  
 
