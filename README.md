@@ -46,7 +46,7 @@
 
 ## 🛡 حقوق الملكية الفكرية
 
-<img src="../images/1.png" alt="حقوق الملكية" width="100"/>
+<img src="(https://drive.google.com/file/d/1xvW3hrPyCJfm4RY7tMVLKxNY52MZoyVJ/view?usp=sharing)" alt="حقوق الملكية" width="100"/>
 
 
 © 2025 Code Journey. جميع الحقوق محفوظة.  
